@@ -8,7 +8,6 @@
 '''
 #---------------------------------
 
-from ast import Load
 from tkinter import *
 from tkinter import filedialog
 from LoadBank import *
