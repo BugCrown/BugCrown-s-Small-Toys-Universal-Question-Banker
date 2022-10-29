@@ -1,0 +1,17 @@
+Explain the major difference between steady and unsteady flows (5').
+Describe the definition of long waves (5'). Examples of long waves (5').
+Derive a condition for the validity of the long-wave approximation (10').
+Sketch the hydrostatic pressure distribution (10').
+Write out the long- wave governing equations-St.Venant Equations (15').
+Write and explain each terms of the momentum equation (15').
+In a given long-wave scenario, explain what are the dominant terms and what are the negligible terms (10').
+Explain the difference between the behaviors of so-called dynamic waves and kinematic waves (5').
+Write the governing equations of flood waves in low-land rivers (15').
+Prove that in the uniform-flow approximation the height and the length of the flood wave are constant as it propagates downstream (15').
+The propagation speed of a flood wave can be less than the flow velocity- explain what is the condition for this to happen (15').
+Explain why theoretically the flood wave becomes flatter and longer during propagation when the quasi-uniform flow approximation is not made (15').
+Explain the Shields parameter (10'), and sketch the Shields diagram (10').
+Describe the evolution of various bedforms in rivers as the flow is increased, starting from incipient motion conditions (10').
+Define and discuss briefly the three primary sediment transport modes (5').
+Explain the settling velocity (5').
+Sketch the velocity and shear stress profile in open channels (15').
