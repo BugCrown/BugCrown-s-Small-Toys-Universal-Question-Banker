@@ -1,6 +1,3 @@
-from email.header import Header
-
-
 #-------- encoding: utf-8 --------
 '''
 @File    :   config.py
