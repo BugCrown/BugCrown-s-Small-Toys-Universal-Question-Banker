@@ -9,7 +9,6 @@
 #---------------------------------
 
 from tkinter import *
-from tkinter import filedialog
 from LoadBank import *
 from Test import *
 from Mode import *
